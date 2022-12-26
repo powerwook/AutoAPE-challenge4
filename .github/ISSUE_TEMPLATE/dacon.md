@@ -1,7 +1,7 @@
 ---
 name: Dacon
 about: DACON 대회 참가
-title: '[DACON] {대회 이름}'
+title: "[DACON] {대회 이름}"
 labels: dacon
 assignees: ''
 
